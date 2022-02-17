@@ -1,0 +1,3 @@
+Faça um programa que leia 10 números reais em uma pilha. Após isso,
+desempilhe cada elemento lido adicionando-o imediatamente em uma fila. Ao término do
+programa, imprima a fila.
